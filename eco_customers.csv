@@ -1,11 +1,11 @@
-Client-ID,Client_Name,City
-CLI-001,SuperMax – Bogotá,Bogotá
-CLI-002,FreshMart,Medellín
-CLI-003,MiniShop,Cali
-CLI-004,EcoStore,Cartagena
-CLI-005,MarketOne,Bucaramanga
-CLI-006,Retail CO,Pereira
-CLI-007,FoodPlus,Manizales
-CLI-008,GreenBuy,Bogotá
-CLI-009,QuickFood,Cúcuta
-CLI-010,SuperMax – Barranquilla,Barranquilla
+"eco_client_id";"eco_client_name";"eco_city"
+"CLI-001";"SuperMax – Bogotá";"Bogotá"
+"CLI-002";"FreshMart";"Medellín"
+"CLI-003";"MiniShop";"Cali"
+"CLI-004";"EcoStore";"Cartagena"
+"CLI-005";"MarketOne";"Bucaramanga"
+"CLI-006";"Retail CO";"Pereira"
+"CLI-007";"FoodPlus";"Manizales"
+"CLI-008";"GreenBuy";"Bogotá"
+"CLI-009";"QuickFood";"Cúcuta"
+"CLI-010";"SuperMax – Barranquilla";"Barranquilla"
